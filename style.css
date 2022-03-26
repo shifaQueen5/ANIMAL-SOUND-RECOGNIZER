@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(142, 142, 221);
+    color: white;
+}
+.div_header p{
+    font-family: 'Roboto', sans-serif;
+    color:black;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.div_header{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.page_footer{
+    position:fixed;
+    bottom:0;
+    background-color: white;
+    color:grey;
+    text-shadow: 5px, 5px, 5px rgba(255, 255, 255, 0.493);
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    line-height: 3;
+    width:100%;
+}
